@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : adai9000/the-notes-app:tagname
+     image : adai9000/the-notes-app:lastest
      ports :
          - "8000:8000"
